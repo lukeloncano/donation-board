@@ -7,11 +7,11 @@
  |____/ \___/|_| |_|\__,_|\__|_|\___/|_| |_| |____/ \___/ \__,_|_|  \__,_|
                                                                           
                                                                                        
-	GitHub Repository: https://github.com/twinrbx/donation-board
-	DevForum Thread: https://devforum.roblox.com/t/quick-donation-board-monetize-in-a-snap/1084740
+	GitHub Repository: https://github.com/lukeloncano/donation-board
+	DevForum Thread: nil
 	
-	Author @twinqle
-	Last updated: 3/4/21
+	Author @Nizkio
+	Last updated: 06/30/2022
 	
 
 --]]
